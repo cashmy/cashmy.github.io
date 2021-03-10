@@ -27,6 +27,10 @@ flutter:
     - family: Playfair Display
       fonts:
         - asset: fonts/PlayfairDisplay-VariableFont_wght.ttf
+    - family: Montserrat
+      fonts:
+        - asset: fonts/Montserrat-Regular.ttf
+          weight: 700
 
 
   # see https://flutter.dev/custom-fonts/#from-packages
