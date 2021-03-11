@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import './profile.dart';
 
 void main() {
   runApp(MyApp());
@@ -31,11 +30,11 @@ class MyHomePage extends StatefulWidget {
 
 
 class _MyHomePageState extends State<MyHomePage> {
-  int _counter = 0;
+//  int _counter = 0;
 // ----- Update any "state-required" widgets/objects -----
   void _incrementCounter() {
     setState(() {
-      _counter++;
+//      _counter++;
     });
   }
 
